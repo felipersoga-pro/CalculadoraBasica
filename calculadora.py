@@ -48,7 +48,9 @@ def mostrar_menu():
 
     """Muestra el menú de la calculadora."""
 
+
     print("\n--- CALCULADORA DE FELIPE ---")
+
 
     print("1. Suma (+)")
 
