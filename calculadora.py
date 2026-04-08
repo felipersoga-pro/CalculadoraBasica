@@ -6,17 +6,6 @@ def restar(a, b):
     """Realiza la resta de dos números."""
     return a - b
 
-def multiplicar(a, b):
-    """Realiza la multiplicación de dos números."""
-    return a * b
-
-def dividir(a, b):
-    """Realiza la división de dos números, manejando la división por cero."""
-    if b == 0:
-        # Lanza una excepción para manejar el error en el menú principal
-        raise ValueError("Error: No se puede dividir por cero")
-    return a / b
-
 def mostrar_menu():
     """Muestra el menú de la calculadora."""
     print("\n--- CALCULADORA ---")
