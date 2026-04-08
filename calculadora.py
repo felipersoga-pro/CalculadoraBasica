@@ -48,7 +48,7 @@ def mostrar_menu():
 
     """Muestra el menú de la calculadora."""
 
-    print("\n--- CALCULADORA ---")
+    print("\n--- SUPER CALCULADORA 2026 ---")
 
     print("1. Suma (+)")
 
